@@ -1,0 +1,1 @@
+In this lab I learned how to use GitHub to manage a project repository and track changes using commits. I created and edited files in a repository and understood how clear commit messages help explain what changed. I learned to also deploy my portfolio website using GitHub Pages so it can be accessed online.
